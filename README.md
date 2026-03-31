@@ -73,7 +73,7 @@ The vulnerability scoring engine requires only census-equivalent public data to 
 [github.com/petemaina](https://github.com/petemaina) · [mainapeter.netlify.app](https://mainapeter.netlify.app) · [linkedin.com/in/petermaina-](https://linkedin.com/in/petermaina-)
 
 **Kihara Chege** — Full-Stack Engineer & ML Systems Developer
-[linkedin.com/in/kihara-chege-3b2198321](https://linkedin.com/in/kihara-chege-3b2198321/)
+[github.com/kihara-chege](https://github.com/chege-5) · [jimmysite.me](jimmysite.me) · [linkedin.com/kihara-chege](https://linkedin.com/in/kihara-chege)
 
 ---
 
